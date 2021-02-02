@@ -2,7 +2,7 @@
 <!--img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/-->
 <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/361/36178.gif" width="250"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 📢 About Me </h3>
 
 - 📖 &nbsp; I’m currently learning React/Node Application Development
 - 🤔 &nbsp; Exploring new technologies to learn even more.
