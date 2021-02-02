@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React/Node Application Development
+- 📖 &nbsp; I’m currently learning React/Node Application Development
 - 🤔 &nbsp; Exploring new technologies to learn even more.
 - 🎓 &nbsp; Studying system analisys and Development.
 - 💻 &nbsp; Watching series such as American Gods, The boys, The office, etc, but only on weekends.
