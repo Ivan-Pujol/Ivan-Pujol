@@ -6,7 +6,7 @@
 
 - 📖 &nbsp; I’m currently learning React/Node Application Development
 - 🤔 &nbsp; Exploring new technologies to learn even more.
-- 🎓 &nbsp; Studying system analisys and Development.
+- 🎓 &nbsp; Studying analisys and system's development.
 - 💻 &nbsp; Watching series such as American Gods, The boys, The office, etc, but only on weekends.
 - ☕ &nbsp; Sorry, but I don't think coffee is the solution for sleep or lack of productivity. (To sleep is!)
 - ⚡ &nbsp; Fun fact: I used to drink too much coffee before, but didn't work out, but to sleep do.
