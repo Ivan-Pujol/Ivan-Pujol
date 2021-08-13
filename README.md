@@ -4,18 +4,18 @@
 
 <h3> 📢 About Me </h3>
 
-- 📖 &nbsp; I’m currently learning React/Node Application Development
+- 📖 &nbsp; I’m currently learning Java Application Development
+- 📖 &nbsp; I learned React/Node Applications Development
 - 🤔 &nbsp; Exploring new technologies to learn even more.
-- 🎓 &nbsp; Studying analisys and system's development.
-- 💻 &nbsp; Watching series such as American Gods, The boys, The office, etc, but only on weekends.
+- 💻 &nbsp; Trying to get an oportunity on IT area.
 - ☕ &nbsp; Sorry, but I don't think coffee is the solution for sleep or lack of productivity. (To sleep is!)
 - ⚡ &nbsp; Fun fact: I used to drink too much coffee before, but didn't work out, but to sleep do.
 
 <h3>🛠 Technologies</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJs | Node 
+- 🌐 &nbsp; Java | HTML | CSS | JavaScript | ReactJs | Node 
 - 🛢 &nbsp; MongoDB | PostgreSQL
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; IntelliJ | Visual Studio code | Git
 
 
 <br>
