@@ -8,8 +8,8 @@
 - 📖 &nbsp; I learned React/Node Applications Development
 - 🤔 &nbsp; Exploring new technologies to learn even more.
 - 💻 &nbsp; Trying to get an oportunity on IT area.
-- ☕ &nbsp; Sorry, but I don't think coffee is the solution for sleep or lack of productivity. (To sleep is!)
-- ⚡ &nbsp; Fun fact: I used to drink too much coffee before, but didn't work out, but to sleep do.
+- ☕ &nbsp; I put a big effort on everything I do.
+- ⚡ &nbsp; Hope we can work together and learn a lot from you!.
 
 <h3>🛠 Technologies</h3>
 
